@@ -1,0 +1,10 @@
+Sample input : 
+DBACEGF
+ABCDEFG
+
+BCAD
+CBAD
+
+Sample output :
+ACBFGED
+CDAB
